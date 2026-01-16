@@ -46,3 +46,6 @@ release
 
 # IDEs / Editors
 .vscode/
+
+# Compile commands
+compile_commands.json
